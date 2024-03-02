@@ -1,0 +1,43 @@
+.pirveli{
+  border: none;
+ 
+  text-align:left;
+  background-color: rgb(52, 150, 114);
+  border-collapse: collapse;
+
+height: 150px;
+width: 400px;
+}
+
+
+.meore{
+  background-color: rgb(52, 150, 114);
+  
+  color:white;
+ 
+ ;
+
+}
+
+.meotxe{
+  background-color: rgb(242, 242, 242);
+  color: rgb(52, 150, 114);
+  border-top: solid rgb(234, 230, 230);
+border-bottom: solid  rgb(234, 230, 230);
+}
+.mesame{
+  background-color: white;
+}
+
+.meeqvse{
+  background-color:white;
+  border-bottom: 2px solid rgb(52, 150, 114);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  
+}
+
+.pirveli,th{
+  border-radius: 4px;
+ 
+}
